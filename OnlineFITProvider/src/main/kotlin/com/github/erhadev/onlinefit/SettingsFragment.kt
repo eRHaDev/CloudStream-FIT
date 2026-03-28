@@ -110,7 +110,7 @@ class SettingsFragment(
                     cookiesString.split(";")
                         .map { it.trim() }
                         .forEach {
-                            cookies[it.split("=")[0]] = it.split("=")[1]
+                            cookies[it.split("=", limit=2)[0]] = it.split("=", limit=2)[1]
                         }
 
                     activity?.runOnUiThread {
