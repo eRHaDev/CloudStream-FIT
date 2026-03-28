@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/CVUT_znak.svg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/eRHaDev/CloudStream-FIT",
+        "fileSize": 25440,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "eRHaDev"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "OnlineFITProvider",
+        "url": "https://raw.githubusercontent.com/eRHaDev/CloudStream-FIT/builds/OnlineFITProvider.cs3",
+        "name": "OnlineFITProvider"
+    }
+]
